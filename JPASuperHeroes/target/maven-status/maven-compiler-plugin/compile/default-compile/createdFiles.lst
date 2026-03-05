@@ -1,0 +1,8 @@
+com\superheroes\model\Universo.class
+com\superheroes\util\JPAUtil.class
+superh\jpasuperheroes\JPASuperHeroes.class
+com\superheroes\dao\SuperHeroeDAO.class
+com\superheroes\main\JPASuperHeroe.class
+com\superheroes\model\SuperHeroe.class
+com\superheroes\dao\ISuperHeroeDAO.class
+com\superheroes\model\IdentidadSecreta.class
